@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games PHP project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+	"bin": [
+  "bin/brain-games"
+],
+    "authors": [
+        {
+            "name": "study",
+            "email": "veritasdevar@gmail.com"
+        }
+    ],
+    "require": {}
+}
