@@ -17,4 +17,3 @@ function playEvenGame()
 
     runGame($description, $generateRound);
 }
-
