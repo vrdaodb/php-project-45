@@ -4,7 +4,7 @@ namespace Hexlet\Code\Games;
 
 use function Hexlet\Code\runGame;
 
-function playEvenGame()
+function playEvenGame(): void
 {
     $description = 'Answer "yes" if the number is even, otherwise answer "no".';
 

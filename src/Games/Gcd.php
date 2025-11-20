@@ -14,7 +14,7 @@ function gcd(int $a, int $b): int
     return $a;
 }
 
-function playGcdGame()
+function playGcdGame(): void
 {
     $description = 'Find the greatest common divisor of given numbers.';
 

@@ -15,7 +15,7 @@ function makeProgression(int $start, int $step, int $length): array
     return $progression;
 }
 
-function playProgressionGame()
+function playProgressionGame(): void
 {
     $description = 'What number is missing in the progression?';
 

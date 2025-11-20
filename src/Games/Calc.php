@@ -4,7 +4,7 @@ namespace Hexlet\Code\Games;
 
 use function Hexlet\Code\runGame;
 
-function playCalcGame()
+function playCalcGame(): void
 {
     $description = 'What is the result of the expression?';
 
