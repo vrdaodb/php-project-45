@@ -1,2 +1,19 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/vrdaodb/php-project-45/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/vrdaodb/php-project-45/actions)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=bugs)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=vrdaodb_php-project-45&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=vrdaodb_php-project-45)
+https://asciinema.org/a/FnUjAO8prs2RD1FFFJ9exHUn4  Even
+https://asciinema.org/a/CrXWtj08jYPgsIdCZcbFERCHl  Calc
+https://asciinema.org/a/BEvSUVNlglNPSKCa2bF6jvosB  Gcd
+https://asciinema.org/a/43Wv8mSJlF2BB0Wrif9Q60k8G Progression
+https://asciinema.org/a/7Gbj8iWfPtbEZxbEuYMcphlXz Prime
+
