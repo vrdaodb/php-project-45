@@ -1,19 +1,40 @@
 {
     "name": "hexlet/code",
     "description": "Brain Games PHP project",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
-        }
+        },
+        "files": [
+                "src/Cli.php",
+        	"src/Engine.php",
+        	"src/Games/Even.php",
+        	"src/Games/Calc.php",
+        	"src/Games/Gcd.php",
+        	"src/Games/Progression.php",
+        	"src/Games/Prime.php"
+        ]
     },
-	"bin": [
-  "bin/brain-games"
-],
+    "bin": [
+        "bin/brain-games",
+        "bin/brain-even",
+        "bin/brain-calc",
+        "bin/brain-gcd",
+        "bin/brain-progression",
+        "bin/brain-prime"
+    ],
     "authors": [
         {
             "name": "study",
             "email": "veritasdevar@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "wp-cli/php-cli-tools": "^0.12.6"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^4.0"
+    }
 }
+

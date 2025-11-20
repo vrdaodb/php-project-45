@@ -3,6 +3,5 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use function Hexlet\Code\runGreeting;
+Hexlet\Code\Games\playEvenGame();
 
-runGreeting();
